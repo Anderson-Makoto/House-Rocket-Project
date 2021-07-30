@@ -14,5 +14,4 @@ Portanto, seu trabalho como Data Scientist é responder as seguinte perguntas:
 
 1. **Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?**
 2. **Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?**
-3. **A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças? Qual o incremento no preço dado por cada opção de reforma?
-**
+3. **A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças? Qual o incremento no preço dado por cada opção de reforma?**
